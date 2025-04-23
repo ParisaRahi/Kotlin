@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">parisara_oblig1</string>
+    <string-array name="Volume">
+        <item>fluid</item>
+        <item>cup</item>
+        <item>gallon</item>
+        <item>hogshead</item>
+    </string-array>
+
+</resources>
